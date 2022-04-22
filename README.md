@@ -1,4 +1,4 @@
-# SAGA 🖤 for Firefox 
+# 🖤 SAGA for Firefox 🖤
 A Dark theme for [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ![Screenshot](./screenshot.png)
